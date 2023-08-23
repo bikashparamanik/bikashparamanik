@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, MySQL, Arduino,MongoDB,C,R**
 
-- 📫 How to reach me **bikashparamanik729@gmail.com**
+- 📫 How to reach me **bikashparamanik.bb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
