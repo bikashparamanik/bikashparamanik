@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb285J3JrkrQZPBPgRNej_93h3PjMWhRG-vQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Bikash Paramanik</h1>
-<h3 align="center">A passionate fronted Data Scientist from India</h3>
+<h3 align="center">A passionate frontend Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAC/coding.gif">
 
 
