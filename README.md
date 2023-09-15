@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashparamanik&label=Profile%20views&color=0e75b6&style=flat" alt="bikashparamanik" /> </p>
 
-- 🔭 I’m currently working on **Cricket Shots Classification**
+- 🔭 I’m currently working on **Cricket Shots Image Classification**
 
 - 🌱 I’m currently learning **Open cv, Cloud, ML**
 
