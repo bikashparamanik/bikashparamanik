@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Cricket Shots Image Classification**
 
-- 🌱 I’m currently learning **Open cv, Cloud, ML**
+- 🌱 I’m currently learning **Django, Flask, HTML, CSS, JavaScript**
 
-- 💬 Ask me about **Python, MySQL, Arduino,MongoDB,C,R**
+- 💬 Ask me about **Python,MySQL,ML,DL,Arduino,R**
 
 - 📫 How to reach me **bikashparamanik.bb@gmail.com**
 
