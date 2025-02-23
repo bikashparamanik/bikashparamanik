@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashparamanik&label=Profile%20views&color=0e75b6&style=flat" alt="bikashparamanik" /> </p>
 
-- 🔭 I’m currently working on **Cricket Shots Image Classification**
+- 🌱 Actively learning **NLP, LLMs, Gen AI**
 
-- 🌱 I’m currently learning **Django, Flask, HTML, CSS, JavaScript**
-
-- 💬 Ask me about **Python,MySQL,ML,DL,Arduino,R**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, NLP, Gen AI**
 
 - 📫 How to reach me **bikashparamanik.bb@gmail.com**
 
