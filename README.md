@@ -6,6 +6,7 @@
 <div align="center">
     <a href="https://linkedin.com/in/bikash-paramanik" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5.svg?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:bikashparamanik.bb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://medium.com/@bikash.paramanik" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
     <!-- Add your other social platforms with similar styling -->
 </div>
 
@@ -28,30 +29,43 @@
 
 # 💻 Tech Stack:
 
-<h3>Languages</h3>
+<h3>Languages & Core Skills</h3>
 <div align="left">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
     <img src="https://img.shields.io/badge/c%20Language-%2300999C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+    <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Prompt Engineering">
 </div>
 
 <h3>Data Science & ML/AI</h3>
 <div align="left">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
+    <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning">
+    <img src="https://img.shields.io/badge/LLMs-5DADE2?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
+    <img src="https://img.shields.io/badge/NLP-3498DB?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
     <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-    <img src="https://img.shields.io/badge/Transformers-%2300808F.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</div>
+
+<h3>Data Visualization & BI</h3>
+<div align="left">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
     <img src="https://img.shields.io/badge/Matplotlib-964B00.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
 </div>
 
-<h3>Databases</h3>
+<h3>Big Data & Web Frameworks</h3>
 <div align="left">
-    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Hadoop-FBBC05?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop">
+    <img src="https://img.shields.io/badge/IoT-0A9EDC?style=for-the-badge&logo=iobroker&logoColor=white" alt="IoT">
+    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
 </div>
 
 <h3>Tools & Platforms</h3>
@@ -69,6 +83,7 @@
 - Large Language Models
 - Generative AI applications
 - Computer Vision innovations
+- Prompt Engineering for LLMs
 
 <br>
 
