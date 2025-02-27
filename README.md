@@ -7,6 +7,8 @@
     <a href="https://linkedin.com/in/bikash-paramanik" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5.svg?logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:bikashparamanik.bb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://medium.com/@bikash.paramanik" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+    <a href="https://www.hackerrank.com/profile/bikash_paramanik" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
+    <a href="https://www.kaggle.com/bikashparamanik" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white" alt="Kaggle"></a>
     <!-- Add your other social platforms with similar styling -->
 </div>
 
